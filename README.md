@@ -1,2 +1,4 @@
-# Curiculum-Vitae-Web-Apps
-Web application to manage your curiculum vitae
+Curiculum-Vitae
+===============
+
+Aplikasi web daftar riwayat hidup untuk personal
